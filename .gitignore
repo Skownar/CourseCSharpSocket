@@ -1,5 +1,7 @@
 # User-specific files
 *.suo
+*.vs
+
 
 # Prerequisites
 *.d
