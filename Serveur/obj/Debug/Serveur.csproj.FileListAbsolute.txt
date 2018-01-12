@@ -1,0 +1,13 @@
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\Serveur\bin\Debug\ServeurApp.exe.config
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\Serveur\bin\Debug\ServeurApp.exe
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\Serveur\bin\Debug\ServeurApp.pdb
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\Serveur\obj\Debug\ServeurApp.exe
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\Serveur\obj\Debug\ServeurApp.pdb
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\Serveur\obj\Debug\Serveur.csprojResolveAssemblyReference.cache
+C:\Users\laferra\source\repos\CacheCarteVB\Serveur\bin\Debug\ServeurApp.exe.config
+C:\Users\laferra\source\repos\CacheCarteVB\Serveur\bin\Debug\ServeurApp.exe
+C:\Users\laferra\source\repos\CacheCarteVB\Serveur\bin\Debug\ServeurApp.pdb
+C:\Users\laferra\source\repos\CacheCarteVB\Serveur\obj\Debug\Serveur.csprojResolveAssemblyReference.cache
+C:\Users\laferra\source\repos\CacheCarteVB\Serveur\obj\Debug\Serveur.csproj.CoreCompileInputs.cache
+C:\Users\laferra\source\repos\CacheCarteVB\Serveur\obj\Debug\ServeurApp.exe
+C:\Users\laferra\source\repos\CacheCarteVB\Serveur\obj\Debug\ServeurApp.pdb

@@ -1,0 +1,21 @@
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\bin\Debug\CacheCarte.exe
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\bin\Debug\CacheCarte.exe.config
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\obj\Debug\CacheCarte.Game.resources
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\obj\Debug\CacheCarte.LoginBox.resources
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\obj\Debug\CacheCarte.Properties.Resources.resources
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\obj\Debug\CacheCarte.csproj.GenerateResource.Cache
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\obj\Debug\CacheCarte.exe
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\obj\Debug\CacheCarte.pdb
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\bin\Debug\CacheCarte.pdb
+C:\Users\lafer\Documents\Visual Studio 2015\Projects\CacheCarte\CacheCarte\obj\Debug\CacheCarte.csprojResolveAssemblyReference.cache
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\bin\Debug\CacheCarte.exe.config
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\bin\Debug\CacheCarte.exe
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\bin\Debug\CacheCarte.pdb
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\obj\Debug\CacheCarte.csprojResolveAssemblyReference.cache
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\obj\Debug\CacheCarte.Game.resources
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\obj\Debug\CacheCarte.LoginBox.resources
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\obj\Debug\CacheCarte.Properties.Resources.resources
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\obj\Debug\CacheCarte.csproj.GenerateResource.Cache
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\obj\Debug\CacheCarte.csproj.CoreCompileInputs.cache
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\obj\Debug\CacheCarte.exe
+C:\Users\laferra\source\repos\CacheCarteVB\CacheCarte\obj\Debug\CacheCarte.pdb
