@@ -18,7 +18,7 @@ namespace ServerTicTacToe
         static readonly int PORT = int.Parse(System.Configuration.ConfigurationManager.AppSettings["port"].ToString());
         
         const int BUFFER_SIZE = 2048;
-        readonly byte[] buffer = new byte[BUFFER_SIZE];
+        static readonly byte[] buffer = new byte[BUFFER_SIZE];
 
         static void Main(string[] args)
         {
@@ -39,12 +39,58 @@ namespace ServerTicTacToe
 
         private static void AcceptCallback(IAsyncResult ar)
         {
+            Socket inUse;
+            try
+            {
+                inUse = serverSocket.EndAccept(ar);
+            }
+            catch (ObjectDisposedException e)
+            {
+
+                Console.WriteLine(e);
+                return;
+            }
+            clientsSocket.Add(inUse);
+            inUse.BeginReceive(buffer, 0, BUFFER_SIZE, SocketFlags.None, ReceiveCallback, inUse);
+            Console.WriteLine("Client connected, waiting for instruction");
+            serverSocket.BeginAccept(AcceptCallback, null);
+        }
+
+        private static void ReceiveCallback(IAsyncResult ar)
+        {
+            Socket inUse = (Socket)ar.AsyncState;
+            int received; // size of received data
+            try
+            {
+                received = inUse.EndReceive(ar);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("[Error Client Socket] client disconnected");
+                inUse.Close();
+                clientsSocket.Remove(inUse);
+                return;
+            }
+            byte[] receptionBuffer = new byte[BUFFER_SIZE];
+            Array.Copy(buffer, receptionBuffer, received);
+            string text = Encoding.ASCII.GetString(receptionBuffer);
+            Console.WriteLine("GET : {0}",text);
+            SendMessage(inUse, text);
+            inUse.BeginReceive(buffer, 0, BUFFER_SIZE, SocketFlags.None, ReceiveCallback, inUse);                
+        }
+
+        private static void SendMessage(Socket inUse, string text)
+        {
             throw new NotImplementedException();
         }
 
         private static void CloseAllSockets()
         {
-            throw new NotImplementedException();
+            foreach (Socket s in clientsSocket)
+            {
+                s.Shutdown(SocketShutdown.Both);
+                s.Close();
+            }
         }
     }
 }
