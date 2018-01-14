@@ -1,0 +1,8 @@
+C:\Users\laferra\source\repos\CoursCsharp-JeuReseau\CourseCSharpSocket\ServerTicTacToe\bin\Debug\ServerTicTacToe.exe.config
+C:\Users\laferra\source\repos\CoursCsharp-JeuReseau\CourseCSharpSocket\ServerTicTacToe\bin\Debug\ServerTicTacToe.xml
+C:\Users\laferra\source\repos\CoursCsharp-JeuReseau\CourseCSharpSocket\ServerTicTacToe\bin\Debug\ServerTicTacToe.exe
+C:\Users\laferra\source\repos\CoursCsharp-JeuReseau\CourseCSharpSocket\ServerTicTacToe\bin\Debug\ServerTicTacToe.pdb
+C:\Users\laferra\source\repos\CoursCsharp-JeuReseau\CourseCSharpSocket\ServerTicTacToe\obj\Debug\ServerTicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\laferra\source\repos\CoursCsharp-JeuReseau\CourseCSharpSocket\ServerTicTacToe\obj\Debug\ServerTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\laferra\source\repos\CoursCsharp-JeuReseau\CourseCSharpSocket\ServerTicTacToe\obj\Debug\ServerTicTacToe.exe
+C:\Users\laferra\source\repos\CoursCsharp-JeuReseau\CourseCSharpSocket\ServerTicTacToe\obj\Debug\ServerTicTacToe.pdb
